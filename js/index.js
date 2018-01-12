@@ -1,0 +1,1 @@
+close = () => {return 0;};
